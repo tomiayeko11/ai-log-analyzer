@@ -1,0 +1,10 @@
+2026-07-31 10:14:22 UTC - INFO - User admin logged in successfully from 192.168.1.5
+2026-07-31 10:14:45 UTC - INFO - Outbound connection established to ://operating-system.com
+2026-07-31 10:15:01 UTC - WARN - Failed login attempt for user root from 203.0.113.42
+2026-07-31 10:15:02 UTC - WARN - Failed login attempt for user root from 203.0.113.42
+2026-07-31 10:15:03 UTC - WARN - Failed login attempt for user root from 203.0.113.42
+2026-07-31 10:15:04 UTC - WARN - Failed login attempt for user root from 203.0.113.42
+2026-07-31 10:15:05 UTC - WARN - Failed login attempt for user root from 203.0.113.42
+2026-07-31 10:16:10 UTC - INFO - User database_admin logged in from 10.0.0.15
+2026-07-31 10:17:55 UTC - ALERT - Inbound traffic spike detected on port 22 from unknown origin
+
