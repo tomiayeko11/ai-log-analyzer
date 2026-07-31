@@ -1,0 +1,14 @@
+# macOS system junk files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python cache and environment execution assets
+__pycache__/
+*.py[cod]
+*$py.class
+security_env/
+
+# Local output reports (Keeps your main repository clean)
+security_threat_alert.md
+
